@@ -62,7 +62,4 @@ Core cybersecurity concepts
 Networking basics
 Network architecture
 Communication protocols
-
 Security roles and career paths
-
-These concepts are essential for future roles in SOC, DFIR, and cybersecurity analysis.
