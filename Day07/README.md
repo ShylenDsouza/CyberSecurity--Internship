@@ -41,9 +41,3 @@ I would like to learn more about network security and basic threat detection tec
 8️. Any suggestions or feedback for improving this internship program?
 
 The internship tasks are very helpful for beginners. One suggestion would be to include more practical demonstrations or guided labs, especially for networking and security tools. This would help students understand concepts more deeply through hands-on practice.
-
----
-
-✅ **Week 1 Summary**
-
-Week 1 helped me build a stronger foundation in cybersecurity basics. The tasks improved my understanding of web communication, phishing awareness, and practical cybersecurity learning platforms like TryHackMe. I look forward to learning more advanced topics in the coming weeks.
