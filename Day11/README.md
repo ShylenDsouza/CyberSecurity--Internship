@@ -35,8 +35,6 @@ For example:
 
 This helps prevent unauthorized access and improves system security.
 
-Concept that I learned :
+Concept that I learnt :
 
-After completing the TryHackMe Network Services room, I learned that open ports usually indicate active network services. Attackers often scan systems to identify these services and exploit vulnerabilities.
-
-Understanding services and ports helps cybersecurity professionals secure systems and reduce the attack surface.
+After completing the TryHackMe Network Services room, I learned that open ports usually indicate active network services. Attackers often scan systems to identify these services and exploit vulnerabilities. Understanding services and ports helps cybersecurity professionals secure systems and reduce the attack surface.
