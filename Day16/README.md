@@ -28,8 +28,6 @@ Similarly, if a VPN connection fails or disconnects unexpectedly, traffic could 
 
 Using multiple defenses such as VPN encryption along with HTTPS connections ensures that even if one protection layer fails, another layer continues protecting the system. This layered security approach is known as Defense in Depth.
 
-Defense I Previously Underestimated
+Defense I Previously Underestimated:
 
-Previously, I underestimated the importance of using a VPN when connecting to public networks. I believed that simply avoiding suspicious websites was enough to stay safe.
-
-However, I learned that attackers can still intercept network traffic on unsecured networks. Using a VPN provides an additional layer of encryption and significantly improves security when using public Wi-Fi.
+Previously, I underestimated the importance of using a VPN when connecting to public networks. I believed that simply avoiding suspicious websites was enough to stay safe. However, I learned that attackers can still intercept network traffic on unsecured networks. Using a VPN provides an additional layer of encryption and significantly improves security when using public Wi-Fi.
